@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Alex Moore. Currently upgrading from Analyst to Web3 Developer
-- 👀 I’m interested in all things Ethereum
+- 👋 Hi, I’m Alex Moore. 
+- 👀 I’m interested in learning skills required to upgrade from Analyst to Web3 developer
 - 🌱 I’m currently learning JavaScript, HTML, CSS, C++, Solidity and Blender
 - 📫 Email: alex@moore-designs.space
 - 🪙 ETH: moore-designs.eth
