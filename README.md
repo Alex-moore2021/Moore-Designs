@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Alex. 
 - 👀 I’m interested in learning skills required to upgrade from Analyst to Web3 developer
 - 🌱 I’m currently learning JavaScript, HTML, CSS, C++, SQL, Solidity and Blender
+- 🌐 www.moore-designs.space
 - 📫 Email: alex@moore-designs.space
 - 🪙 ETH: moore-designs.eth
 
