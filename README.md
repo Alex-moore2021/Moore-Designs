@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alex. 
-- 👀 I’m interested in learning skills required to upgrade from Analyst to Web3 developer
+- 👀 DAO Treasury Management development through  queries and data transparency. 
 - 🌱 JavaScript, HTML, CSS, SQL, Solidity
 - 🌐 www.moore-designs.space
 - 📫 Email: alex@moore-designs.space
