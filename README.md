@@ -1,9 +1,10 @@
 - 👋 Hi, I’m Alex. 
-- 👀 DAO Treasury Management development through  queries and data transparency. 
-- 🌱 JavaScript, HTML, CSS, SQL, Solidity
+- 👀 Currently interested in DAO treasury management protocols and smart contract analysis
+- 💪 Strenghts: Financial Management Analysis
+- 🌱 Capable:  HTML, CSS.  Learning: JavaScript, SQL, Solidity
 - 🌐 www.moore-designs.space
 - 📫 Email: alex@moore-designs.space
-- 🪙 ETH: moore-designs.eth
+- 🪙 Wallet: moore-designs.eth
 
 <!---
 Alex-moore2021/Alex-moore2021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
