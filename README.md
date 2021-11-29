@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alex. 
-- 👀 Interested in exposing unfair terms and conditions encoded in smart contracts to consumers and creating Financial Management dashboards for DAOs.
+- 👀 Interested in exposing unfair smart contracts to consumers and creating financial management tools for DAO treasuries. 
 - 💪 Strengths: SQL
 - 👌 Capable:  HTML, CSS.  
 - 🌱 Learning: JavaScript, Python, Solidity
