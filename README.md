@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Alex. 
-- 👀 Currently interested in DAO treasury management protocols and smart contract analysis
-- 💪 Strenghts: Financial Management Analysis
-- 🌱 Capable:  HTML, CSS.  Learning: JavaScript, SQL, Solidity
+- 👀 Interested in exposing unfair terms and conditions encoded in smart contracts to consumers and creating Financial Management dashboards for DAOs.
+- 💪 Strengths: SQL
+- 👌 Capable:  HTML, CSS.  
+- 🌱 Learning: JavaScript, Python, Solidity
 - 🌐 www.moore-designs.space
 - 📫 Email: alex@moore-designs.space
 - 🪙 Wallet: moore-designs.eth
