@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Alex. 
 - 👀 Interested in exposing unfair terms and conditions encoded in smart contracts and creating financial management tools for DAO treasuries. 
 - 💪 Strengths: SQL
-- 👌 Capable:  HTML, CSS.  
-- 🌱 Learning: JavaScript, Python, Solidity
+- 👌 Capable:  HTML, CSS
+- 🌱 Learning: JavaScript, Python, Solidity, React
 - 🌐 www.moore-designs.space
 - 📫 Email: alex@moore-designs.space
 - 🪙 Wallet: moore-designs.eth
