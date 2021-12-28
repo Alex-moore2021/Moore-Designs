@@ -36,7 +36,7 @@ Default: 1
 }
 
 html {
-  font-size: 20px;
+  font-size: 10px;
 }
 
 body {
@@ -55,5 +55,5 @@ body {
   padding: 4rem;
   font-size: 2rem;
   color: #fff;
-  /* 1 rem = 16px -> 50rem = 800px */
+  /* 1 rem = 10px -> 50rem = 500px */
 }
