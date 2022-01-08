@@ -238,6 +238,12 @@ body {
   background-color: orangered;
 }
 
+.container {
+  /* 1140px */
+  max-width: 120rem;
+  margin: 0 auto;
+}
+
 .grid {
   display: grid;
   gap: 9.6rem;
