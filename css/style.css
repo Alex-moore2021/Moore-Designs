@@ -168,7 +168,6 @@
 
 .step-img-box {
   position: relative;
-
   display: flex;
   align-items: center;
   justify-content: center;
@@ -204,8 +203,9 @@
 }
 
 .step-img {
-  width: 35%;
+  width: 40%;
   /* z-index: 10; */
+  border-radius: 50%;
 }
 
 /********************/
