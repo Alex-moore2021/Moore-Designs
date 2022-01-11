@@ -234,10 +234,20 @@
   display: inline-block;
   padding: 0.4rem 0.8rem;
   font-size: 1.2rem;
+  font-weight: 600;
   text-transform: uppercase;
-  background-color: #51cf66;
   color: #333;
   border-radius: 100px;
+}
+
+.tag--space {
+  background-color: #51b2cf;
+}
+.tag--art {
+  background-color: #e4e013;
+}
+.tag--nature {
+  background-color: #e6938d;
 }
 
 .photo-title {
