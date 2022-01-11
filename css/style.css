@@ -207,3 +207,33 @@
   width: 35%;
   /* z-index: 10; */
 }
+
+/********************/
+/* PHOTOS SECTION */
+/********************/
+
+.section-meals {
+  padding: 9.6rem 0;
+}
+
+.photo-title {
+  font-size: 2.4rem;
+  color: #333;
+  font-weight: 600;
+  margin-bottom: 3.2rem;
+}
+
+.photo-attributes {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.photo-attribute {
+  font-size: 1.8rem;
+}
+
+.photo-img {
+  width: 100%;
+}
