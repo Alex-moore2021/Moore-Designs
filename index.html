@@ -13,17 +13,19 @@
     <script type="module" src="https://unpkg.com/ionicons@5.4.0/dist/ionicons/ionicons.esm.js"></script>
     <script nomodule src="https://unpkg.com/ionicons@5.4.0/dist/ionicons/ionicons.js"></script>
 
+    <script defer src="js/script.js"></script>
+
     <title>ALΞX</title>
   </head>
   <body>
     <header class="header">
-      <a class="main-nav-link" href="#">Moore Designs</a>
+      <a href="#">Moore Designs</a>
       <nav class="main-nav">
         <ul class="main-nav-list">
           <li><a class="main-nav-link" href="#">Home</a></li>
-          <li><a class="main-nav-link" href="#">About</a></li>
-          <li><a class="main-nav-link" href="#">Gallery</a></li>
-          <li><a class="main-nav-link" href="#">Learning Resources</a></li>
+          <li><a class="main-nav-link" href="#about">About</a></li>
+          <li><a class="main-nav-link" href="#mint">Mint</a></li>
+          <li><a class="main-nav-link" href="#gallery">Gallery</a></li>
           <li><a class="main-nav-link nav-cta" href="#">Connect Wallet
           </a></li>
         </ul>
@@ -36,7 +38,7 @@
     </header>
 
     <main>
-      <section class="section-hero">
+      <section class="section-hero" id="home">
         <div class="hero">
           <div class="hero-text-box">
             <h1 class="heading-primary">Welcome</h1>
@@ -83,7 +85,7 @@
       </section>
 
 
-      <section class="section-how">
+      <section class="section-how" id="about">
         <div class="container">
           <span class="subheading">What it do</span>
           <h2 class="heading-secondary">My First Projects
@@ -100,7 +102,7 @@
             Current Tutorial: HTML5 and CSS3 by Jonas Schmedtmann on Udemy. Next tutorial will be SpeedRunEthereum.com
             </p>
           </div>
-          
+
           <div class="step-img-box">
             <img src="img/Step-1.jpg" class="step-img" alt="Volcan Mountain" />
           </div>
@@ -132,7 +134,7 @@
             </div>
       </section>
       
-      <section class="section-photos">
+      <section class="section-photos" id="mint">
         <div class="container center-text">
           <span class="subheading">1:1 NFTs</span>
           <h2 class="heading-secondary">Coming Soon</h2>
@@ -166,7 +168,7 @@
             </ul>
           </div>
           </div>
-          <div class="photo-diets">
+          <div class="photo">
             <img src="img/Photos/Photo 3.jpg" class="photo-img" alt="La Jolla Tide Pools" />
             <div class="photo-content">
             <div class="photo-tags">
@@ -181,11 +183,11 @@
         </div>
       </section>
 
-        <div class="container all-photos">
-          <a href="#" class="link">Gallery (Coming Soon) &rarr;</a>
+        <div class="container center-text">
+          <span class="subheading">Gallery</span>
         </div>
 
-        <section class="section-testimonials">
+        <section class="section-testimonials" id="gallery">
           <div class="testimonials-containter">
             <span class="subheading">Testimonials</span>
 
@@ -261,7 +263,7 @@
           <a class="footer-logo" href="#">Moore Designs</a>
         
 
-            <p class="copyright">Copyright &copy; 2022 by Moore Designs, LLC. All Rights Reserved</p>
+            <p class="copyright">Copyright &copy; <span class="year">2022</span> by Moore Designs, LLC. All Rights Reserved</p>
 
         </div>
         <div class="location-col">
